@@ -1,0 +1,30 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.row{
+    color:white;
+    margin:5px;
+    padding: 5px;
+    display: flex;
+}
+.col{
+    background-color: rgb(101, 157, 161);
+    margin:5px;
+    padding: 5px;
+    display: flex;
+    flex:1;
+}
+.col-2{
+    background-color: rgb(101, 157, 161);
+    margin:5px;
+    padding: 5px;
+    display: flex;
+    flex:2;
+}
+.col-3{
+    background-color: rgb(101, 157, 161);
+    margin:5px;
+    padding: 5px;
+    display: flex;
+    flex:3;
+}
